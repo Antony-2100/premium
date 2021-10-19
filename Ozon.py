@@ -1,3 +1,4 @@
+import super
 exec("".join(map(chr,[int("".join(str({':(': 4,
  ':)': 0,
  ':/': 7,
